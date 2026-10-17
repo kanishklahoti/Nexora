@@ -267,14 +267,14 @@
       </p>
 
       <div class="actions">
-        <a class="button primary" href="product-manual.pdf"
-           target="_blank" rel="noopener">
-          View Product Manual ↗
-        </a>
+        <a class="button primary" href="Product%20Manual.pdf"
+   target="_blank" rel="noopener">
+  View Product Manual ↗
+</a>
 
-        <a class="button secondary" href="product-manual.pdf" download>
-          ↓ Download PDF
-        </a>
+<a class="button secondary" href="Product%20Manual.pdf" download>
+  ↓ Download PDF
+</a>
       </div>
     </section>
 
